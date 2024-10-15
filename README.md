@@ -7,12 +7,12 @@ This section provides a breakdown of ATM maintenance costs. The costs are catego
 
 ### Cost Analysis (ATM Cost and Maintenance)
 This section provides a breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
-CRA: Cash Replenishment Agency
-ATM AMC: ATM Annual Maintenance Contract
-Site Maintenance: Maintenance of the ATM site
-Spare Replacement: Replacement of ATM spare parts
-UPS AMC: Uninterruptible Power Supply Annual Maintenance Contract
-VSAT AMC: Very Small Aperture Terminal Annual Maintenance Contract
+- CRA: Cash Replenishment Agency
+- ATM AMC: ATM Annual Maintenance Contract
+- Site Maintenance: Maintenance of the ATM site
+- Spare Replacement: Replacement of ATM spare parts
+- UPS AMC: Uninterruptible Power Supply Annual Maintenance Contract
+- VSAT AMC: Very Small Aperture Terminal Annual Maintenance Contract
 
 ### Key Metrics
 Total Cost: 296M
