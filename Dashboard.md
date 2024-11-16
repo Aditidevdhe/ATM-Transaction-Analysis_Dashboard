@@ -2,7 +2,7 @@
 
 ### Dashboard Image
 
-
+![image alt](https://github.com/Aditidevdhe/ATM-Transaction-Analysis_Dashboard/blob/5c864b661ef6684f27d3211472000929ccc20cee/ds1.png)
 
 ### Cost Analysis (ATM Cost and Maintenance)
 
