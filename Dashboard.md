@@ -58,7 +58,7 @@ This line chart shows the trend of total transactions over time, specifically hi
 
 ### Dashboard Image
 
-
+![image alt](https://github.com/Aditidevdhe/ATM-Transaction-Analysis_Dashboard/blob/59b456b116d23fded73f303882db2e49e72fff10/ds2.png)
 
 ### Range Analysis (Current and Previous Month by ATM ID)
 
